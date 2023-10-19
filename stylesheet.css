@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(Font/Roboto.ttf);
+}
+
+* {
+    font-family: 'Roboto';
+}
